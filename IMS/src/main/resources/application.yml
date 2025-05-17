@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    name: IMS
+    url: jdbc:mysql://localhost:3306/ims_springboot_angular
+    username: root
+    password: admin
